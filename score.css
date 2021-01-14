@@ -1,0 +1,13 @@
+body{
+	margin-top: 15%;
+	text-align: center;
+	background: #94cfff;
+	font-size: 25px;
+}
+
+h1{
+	text-shadow: 2px 2px 2px #000;
+}
+.winner{
+	color:green;
+}
